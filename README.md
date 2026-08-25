@@ -70,11 +70,4 @@ market data. The stock versus sales gap in particular is likely an artifact of
 how the inventory table is generated, and would need validation against real
 replenishment data before driving any purchasing decision.
 
-## Status
-
-The original queries, notebooks and Tableau workbooks were lost to a disk
-failure. I am rebuilding the analysis from scratch against the same public
-dataset, and this repository will be updated with the SQL, the Python notebooks
-and the dashboards as they are completed.
-
 Francesco Capitelli · Data Analyst · [LinkedIn](https://www.linkedin.com/in/francescocapitelli)
